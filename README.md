@@ -12,7 +12,7 @@
 | [Online Course Platform](https://github.com/200MB/online_course_management) | Python, Django REST | JWT auth, RBAC, N+1 optimized, Swagger docs |
 | [Ticket Management System](https://github.com/200MB/tktManagementProject) | Java, JavaFX, SQL | Full purchase workflow, encryption, session management |
 | [Discord Moderation Bot](https://github.com/200MB/pythonBot) | Python, asyncio | Async event handling, custom command architecture |
-| [Competitive Programming](https://github.com/200MB/Competitive_Programming) | Java | 50+ Expert-level solutions — DP, graphs, combinatorics |
+| [Competitive Programming](https://github.com/200MB/Competitive_Programming) | Java | 50+ solutions — DP, graphs, combinatorics |
 
 ---
 
