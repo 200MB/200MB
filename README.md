@@ -1,16 +1,29 @@
-## Hi there 👋
+# Bacho Bekauri
 
-<!--
-**200MB/200MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer building real-world systems in **Java**, **Python**, and **TypeScript**.  
+Codeforces **Expert** (top ~15% globally) · 4+ years of self-directed development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [Valorant In-Game Translator](https://github.com/200MB/VALORANT_IN_GAME_TRANSLATOR) | Java, Valorant API | Real-time chat translation in <1 second during live multiplayer |
+| [Online Course Platform](https://github.com/200MB/online_course_management) | Python, Django REST | JWT auth, RBAC, N+1 optimized, Swagger docs |
+| [Ticket Management System](https://github.com/200MB/tktManagementProject) | Java, JavaFX, SQL | Full purchase workflow, encryption, session management |
+| [Discord Moderation Bot](https://github.com/200MB/pythonBot) | Python, asyncio | Async event handling, custom command architecture |
+| [Competitive Programming](https://github.com/200MB/Competitive_Programming) | Java | 50+ Expert-level solutions — DP, graphs, combinatorics |
+
+---
+
+## Skills
+
+`Java` `Python` `TypeScript` `JavaScript` `C#` `SQL`  
+`Spring` `Django REST` `React.js` `JavaFX`  
+`MySQL` `PostgreSQL` `MongoDB`  
+`Jenkins` `GitLab CI` `Maven` `Gradle`  
+
+---
+
+📫 bachobekauri0@gmail.com · [LinkedIn](https://linkedin.com/in/Bacho-Bekauri)
