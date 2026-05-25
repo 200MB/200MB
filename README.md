@@ -1,7 +1,7 @@
 # Bacho Bekauri
 
-Developer building real-world systems in **Java**, **Python**, and **TypeScript**.  
-Codeforces **Expert** (top ~15% globally) · 4+ years of self-directed development.
+Developer building real-world systems in **Java**, **Python**, **C#** and **TypeScript**.  
+4+ years of self-directed development.
 
 ---
 
