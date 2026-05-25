@@ -1,6 +1,5 @@
 # Bacho Bekauri
 
-Developer building real-world systems in **Java**, **Python**, **C#** and **TypeScript**.  
 4+ years of self-directed development.
 
 ---
@@ -19,11 +18,11 @@ Developer building real-world systems in **Java**, **Python**, **C#** and **Type
 
 ## Skills
 
-`Java` `Python` `TypeScript` `JavaScript` `C#` `SQL`  
+`Java` `Python` `TypeScript` `JavaScript` `C#` `SQL` `C#` `C++` `ReactJS`
 `Spring` `Django REST` `React.js` `JavaFX`  
 `MySQL` `PostgreSQL` `MongoDB`  
 `Jenkins` `GitLab CI` `Maven` `Gradle`  
 
 ---
 
-📫 bachobekauri0@gmail.com · [LinkedIn](https://linkedin.com/in/Bacho-Bekauri)
+📫 bachobekauri0@gmail.com · [LinkedIn](linkedin.com/in/bacho-bekauri-aa7b472aa)
